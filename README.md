@@ -67,7 +67,7 @@ Here are some ideas:
 * magic wand game using accelerometer tarcker
 * assistant robot/maintenance module for a drone/autonomous vehicle using accelerometer tracker
 * any audio classification project, but using Edge Impulse to deploy to a phone or microcontroller
-* [EI keyword detection project](https://github.com/numinousmuses/ei-keyword-spotting-project)
+* [edge impulse keyword detection project](https://github.com/numinousmuses/ei-keyword-spotting-project)
 * any video classification project, but using Edge Impulse to deploy to a phone or microcontroller
 
 
