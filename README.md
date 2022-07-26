@@ -1,5 +1,5 @@
 # ei-smartphone-motion-project
-Motion Detection using Edge Impulse
+
 This was a project to play around and get a first feel of edge impulse, and tbh it's nicer than expected.
 This project uses an accelerometer to classify between:
 * left-right motion
