@@ -13,8 +13,6 @@ As for this repository, it contains the neural networks, engineered feature data
 
 # project description
 
-The project is relatively simple.
-
 ## data
 First, 20 10-second samples of data for each of the classes (up-down, left-right, circle, idle) were collected. The data are spectra representing the x, y and z axis:
 
