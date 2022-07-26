@@ -1,0 +1,9 @@
+The engineered features in the numpy array are the Fast Fourier Transform of the accelerometer data.
+The classes (labels) in the numpy array are left-right, up-down, and circle, corresponding to the type of motion made with the smartphone.
+A visual example of the feature extraction is available as a screenshot in this folder.
+To see the feature extractions of other samples, view the project on edge impulse at https://studio.edgeimpulse.com/public/124439/latest
+
+The neural network is included as a tflite model and h5 file. There is also a notebook for the creation of the model. 
+The k-means anomaly detection model is also included as a JSON file. A visualization of the anomaly detection model's generated clusters is also included in the folder.
+
+The training data is available on the edge impulse page.
